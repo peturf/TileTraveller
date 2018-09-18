@@ -1,4 +1,5 @@
 " https://github.com/peturf/TileTraveller "
+
 """
 Taka punkt sem byrjar á hnitum x, y = 1 og færa hann í gegnum völundarhús. Hann verður að vera innan 1 < x, y < 3.
 Eftirfarandi hreyfingar eru ekki leyfðar (veggir):
